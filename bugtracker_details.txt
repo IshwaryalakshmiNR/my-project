@@ -1,0 +1,27 @@
+bug tracker
+
+eg jira board
+
+FE
+react ts js material ui 
+
+BE 
+expressjs
+graphql
+
+
+db 
+mysql workbench
+mongodb
+
+edit 
+right
+wrong
+id 
+name 
+assigned by
+status 
+screenshot
+
+
+
